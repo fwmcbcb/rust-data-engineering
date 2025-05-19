@@ -15,8 +15,8 @@
 Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
 
 
-[![Clippy](https://github.com/nogibjj/rust-data-engineering/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/rust-data-engineering/actions/workflows/lint.yml)
-[![Tests](https://github.com/nogibjj/rust-data-engineering/actions/workflows/tests.yml/badge.svg)](https://github.com/nogibjj/rust-data-engineering/actions/workflows/tests.yml)
+[![Clippy](https://github.com/fwmcbcb/rust-data-engineering/actions/workflows/lint.yml/badge.svg)](https://github.com/fwmcbcb/rust-data-engineering/actions/workflows/lint.yml)
+[![Tests](https://github.com/fwmcbcb/rust-data-engineering/actions/workflows/tests.yml/badge.svg)](https://github.com/fwmcbcb/rust-data-engineering/actions/workflows/tests.yml)
 
 
 # Rust Data Engineering
